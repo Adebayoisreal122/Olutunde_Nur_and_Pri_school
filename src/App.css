@@ -1,0 +1,9 @@
+.homi {
+  background: 
+    linear-gradient(180deg, rgba(26, 218, 9, 0.3) 0%, rgba(31, 29, 29, 0.4) 100%),
+    url("/images/olu2.webp") center/cover no-repeat;
+  height: 100vh;        
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+}
