@@ -3,7 +3,7 @@ import React from 'react'
 const Home = () => {
   return (
     <>
-    <div class="homi d-flex justify-content-center align-items-center">
+    <div class="homi d-flex justify-content-center text-light align-items-center">
   <div class="container">
     <div class="row">
       <div class="col-md-6">
